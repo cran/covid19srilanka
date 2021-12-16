@@ -1,0 +1,15 @@
+7f3100149cfc5b9491f84a87a6922c9a *DESCRIPTION
+3e83c7bf01ca7e419fee236d9cece078 *LICENSE
+dc21c19f0d6968ee25d441b2cf46017d *NAMESPACE
+3c9ec361694f8e130e69cc3cfb718a04 *R/covid.cases.R
+e072f566f78cc2c6d5138be5bf0782d5 *R/district.wise.cases.R
+5a8178a976ab17b249ba22f84028f142 *R/vaccination.R
+945502ecad1552ce0639579fd4cea190 *README.md
+d4b3ab5bb7f752b69f95f1efc099d956 *data/covid.cases.rda
+c27b50044ddcb1d019096dac4cf79abb *data/district.wise.cases.rda
+99d80a3b0015f6ddca6c4dc7bb493696 *data/vaccination.rda
+62532a8634af2f87958f9091b934d856 *man/covid.cases.Rd
+26bcbcfb70d8b9cbd21282340d6fda0d *man/district.wise.cases.Rd
+a77fbc4e3179a6626ad8a41567e6935e *man/figures/README-unnamed-chunk-6-1.png
+9d0c47f0cd725e0e5814f13226f9312b *man/figures/hex.png
+fc15753d2e2c411da1c909312bf35f71 *man/vaccination.Rd
